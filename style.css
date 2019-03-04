@@ -1,3 +1,7 @@
+body {
+  overflow-x: hidden;
+}
+
 .image {
   width: 75;
   height: 75px;
@@ -165,10 +169,7 @@ hr {
   color: red;
 }
 
-@media screen and (max-width: 900px) and (max-width: 1800px) {
-  body {
-    overflow-x: hidden;
-  }
+@media screen and (max-width: 900px) {
   #header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)),
       url("cse2.png");
