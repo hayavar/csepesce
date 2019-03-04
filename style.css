@@ -169,12 +169,13 @@ hr {
   color: red;
 }
 
-@media screen and (max-width: 1396px) {
+@media screen and (max-width: 900px) {
   #header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)),
       url("cse2.png");
     background-size: contain;
     background-repeat: no-repeat;
+    height: auto;
   }
   #img1 {
     width: 80%;
@@ -209,7 +210,7 @@ hr {
   }
   #map {
     height: auto;
-    width: auto;
+    width: 50%;
     margin-left: auto;
     margin-right: auto;
   }
