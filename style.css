@@ -165,7 +165,7 @@ hr {
   color: red;
 }
 
-@media screen and (max-width: 1500px) {
+@media screen and (max-width: 900px) {
   body {
     overflow-x: hidden;
   }
