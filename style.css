@@ -169,7 +169,7 @@ hr {
   color: red;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1396px) {
   #header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)),
       url("cse2.png");
