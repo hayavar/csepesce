@@ -165,7 +165,7 @@ hr {
   color: red;
 }
 
-@media screen and (max-width: 2048px) {
+@media screen and (max-width: 900px) {
   #header {
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.4)),
       url("cse2.png");
@@ -205,18 +205,8 @@ hr {
   }
   #map {
     height: auto;
-    width: auto;
+    width: 100%;
     margin-left: auto;
     margin-right: auto;
-  }
-  #csecontent {
-    font-size: 12px;
-  }
-  .course2 h4 {
-    font-size: 20px;
-  }
-  .course2 p,
-  course2 b {
-    font-size: 12px;
   }
 }
