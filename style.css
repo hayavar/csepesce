@@ -178,9 +178,7 @@ hr {
     background-repeat: no-repeat;
     height: auto;
   }
-  .navbar-brand {
-    visibility: hidden;
-  }
+
   #img1 {
     width: 80%;
   }
@@ -230,7 +228,7 @@ hr {
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 700px) {
   .navbar-brand {
     visibility: hidden;
   }
