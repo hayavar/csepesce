@@ -178,6 +178,9 @@ hr {
     background-repeat: no-repeat;
     height: auto;
   }
+  .navbar-brand {
+    visibility: hidden;
+  }
   #img1 {
     width: 80%;
   }
